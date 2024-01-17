@@ -23,12 +23,12 @@
   ![PHP](https://img.shields.io/badge/PHP-333333?logo=php)
   ![Laravel](https://img.shields.io/badge/Laravel-333333?logo=laravel)
   <br/>
+  ![MySQL](https://img.shields.io/badge/MySQL-333333?logo=mysql)
+  ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-333333?style=flat&logo=postgresql)
+  <br/>
   ![Bootstrap](https://img.shields.io/badge/Bootstrap-333333?logo=bootstrap)
   ![Bulma](https://img.shields.io/badge/Bulma-333333?logo=bulma)
   ![Tailwind](https://img.shields.io/badge/Tailwind-333333?logo=tailwind-css)
-  <br/>
-  ![MySQL](https://img.shields.io/badge/MySQL-333333?logo=mysql)
-  ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-333333?style=flat&logo=postgresql)
   <br/>
   ![Git](https://img.shields.io/badge/Git-333333?logo=git)
 
