@@ -7,10 +7,18 @@
 - I am a self-taught and highly creative individual who seeks to learn and improve every day.
 
 ### Technologies
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
   ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
   ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
+  ![Bootstrap](https://img.shields.io/badge/logo-Bootstrap-blue?logo=bootstrap)
   ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
+  ![Git](https://img.shields.io/badge/logo-Git-blue?logo=git)
+  ![Python](https://img.shields.io/badge/logo-Python-blue?logo=python)
+  ![Django](https://img.shields.io/badge/logo-django-blue?logo=django)
+  ![PHP](https://img.shields.io/badge/logo-PHP-blue?logo=php)
+  ![Laravel](https://img.shields.io/badge/logo-Laravel-blue?logo=laravel)
+  ![Tailwind CSS](https://img.shields.io/badge/logo-Tailwind-blue?logo=tailwind-css)
+  
   <br/>
   ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
   ![Express](https://img.shields.io/badge/-Express-333333?style=flat&logo=express)
