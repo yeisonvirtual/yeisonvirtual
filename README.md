@@ -25,6 +25,7 @@
   <br/>
   ![MySQL](https://img.shields.io/badge/MySQL-333333?logo=mysql)
   ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-333333?style=flat&logo=postgresql)
+  ![Firebase](https://img.shields.io/badge/Firebase-333333?logo=firebase)
   <br/>
   ![Bootstrap](https://img.shields.io/badge/Bootstrap-333333?logo=bootstrap)
   ![Bulma](https://img.shields.io/badge/Bulma-333333?logo=bulma)
