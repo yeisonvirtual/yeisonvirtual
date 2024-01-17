@@ -12,12 +12,12 @@
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
   ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat?logo=bootstrap)
   ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
-  ![Git](https://img.shields.io/badge/logo-Git-blue?logo=git)
-  ![Python](https://img.shields.io/badge/logo-Python-blue?logo=python)
+  ![Git](https://img.shields.io/badge/-Git-333333?logo=git)
+  ![Python](https://img.shields.io/badge/-Python-333333?logo=python)
   ![Django](https://img.shields.io/badge/-Django-333333?logo=django)
-  ![PHP](https://img.shields.io/badge/logo-PHP-blue?logo=php)
-  ![Laravel](https://img.shields.io/badge/logo-Laravel-blue?logo=laravel)
-  ![Tailwind CSS](https://img.shields.io/badge/logo-Tailwind-blue?logo=tailwind-css)
+  ![PHP](https://img.shields.io/badge/-PHP-333333?logo=php)
+  ![Laravel](https://img.shields.io/badge/-Laravel-333333?logo=laravel)
+  ![Tailwind CSS](https://img.shields.io/badge/Tailwind-333333?logo=tailwind-css)
   
   <br/>
   ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
