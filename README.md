@@ -27,11 +27,10 @@
   ![Bulma](https://img.shields.io/badge/Bulma-333333?logo=bulma)
   ![Tailwind](https://img.shields.io/badge/Tailwind-333333?logo=tailwind-css)
   <br/>
-  ![Git](https://img.shields.io/badge/Git-333333?logo=git)
-  
-  <br/>
   ![MySQL](https://img.shields.io/badge/MySQL-333333?logo=mysql)
   ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-333333?style=flat&logo=postgresql)
+  <br/>
+  ![Git](https://img.shields.io/badge/Git-333333?logo=git)
 
 ### Contact Me
 <a href="https://www.linkedin.com/in/yeison-rojas-19b04726a/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Yeison%20Rojas-blue?style=flat-square&logo=linkedin"></a>
