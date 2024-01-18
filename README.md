@@ -6,12 +6,13 @@
 - I am 25 years old and I am from Venezuela.
 - I am finishing my Computer Engineering studies at the university.
 - I am currently self-taught and specialize in software development, specifically in web development using the latest technology in high demand today.
-
-I am very passionate about science 🔬🧪📱 and constant learning 📚, I like challenges and looking for optimal solutions to the problems that arise in life 🧐.
+- I am very passionate about science 🔬🧪📱 and constant learning 📚.
+- I like challenges and looking for optimal solutions to the problems that arise in life 🧐.
 
 ### Hobbies.
-I love art in all its expressions 🎨🎼🎻🎬 and I have always practiced them as it is a way to stimulate my imagination and free myself. 
--I like to sing 🎤, play the guitar 🎸, dance 🕺 and act 🎭.
+
+- I love art in all its expressions 🎨🎼🎻🎬 since it is a way to stimulate the imagination and be yourself.
+- I like to sing 🎤, play the guitar 🎸, dance 🕺 and act 🎭.
 
 
 ### Technologies
