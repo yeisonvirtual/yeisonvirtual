@@ -1,10 +1,18 @@
 <h1>Hello! I'm Yeison Rojas <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> 🚀</h1>
-<h2>Web Developer 👨‍💻🖥💻</h2>
+<h2>Software Developer 👨‍💻🖥💻</h2>
 
 ### About Me
+
 - I am 25 years old and I am from Venezuela.
-- I am a MERN full stack developer.
-- I am a self-taught and highly creative individual who seeks to learn and improve every day.
+- I am finishing my Computer Engineering studies at the university.
+- I am currently self-taught and specialize in software development, specifically in web development using the latest technology in high demand today.
+
+I am very passionate about science 🔬🧪📱 and constant learning 📚, I like challenges and looking for optimal solutions to the problems that arise in life 🧐.
+
+### Hobbies.
+I love art in all its expressions 🎨🎼🎻🎬 and I have always practiced them as it is a way to stimulate my imagination and free myself. 
+-I like to sing 🎤, play the guitar 🎸, dance 🕺 and act 🎭.
+
 
 ### Technologies
   
