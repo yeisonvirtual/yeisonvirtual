@@ -12,10 +12,11 @@
   ![CSS3](https://img.shields.io/badge/CSS3-333333?style=flat&logo=CSS3&logoColor=1572B6)
   ![JavaScript](https://img.shields.io/badge/JavaScript-333333?style=flat&logo=javascript)
   <br/>
-  ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=MongoDB)
-  ![Express](https://img.shields.io/badge/-Express-333333?style=flat&logo=express)
-  ![React](https://img.shields.io/badge/React-333333?style=flat&logo=react)
   ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
+  ![Express](https://img.shields.io/badge/-Express-333333?style=flat&logo=express)
+  <br/>
+  ![React](https://img.shields.io/badge/React-333333?style=flat&logo=react)
+  ![Next](https://img.shields.io/badge/React-333333?style=flat&logo=next.js)
   <br/>
   ![Python](https://img.shields.io/badge/Python-333333?logo=python)
   ![Django](https://img.shields.io/badge/Django-333333?logo=django)
@@ -25,6 +26,7 @@
   <br/>
   ![MySQL](https://img.shields.io/badge/MySQL-333333?logo=mysql)
   ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-333333?style=flat&logo=postgresql)
+  ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=MongoDB)
   ![Firebase](https://img.shields.io/badge/Firebase-333333?logo=firebase)
   <br/>
   ![Bootstrap](https://img.shields.io/badge/Bootstrap-333333?logo=bootstrap)
@@ -32,9 +34,6 @@
   ![Tailwind](https://img.shields.io/badge/Tailwind-333333?logo=tailwind-css)
   <br/>
   ![Git](https://img.shields.io/badge/Git-333333?logo=git)
-  <br/>
-  ![C++](https://img.shields.io/badge/C++-333333)
-  ![Java](https://img.shields.io/badge/Java-333333)
 
 ### Contact Me
 <a href="https://www.linkedin.com/in/yeison-rojas-19b04726a/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Yeison%20Rojas-blue?style=flat-square&logo=linkedin"></a>
