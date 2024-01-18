@@ -29,14 +29,14 @@
   ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=MongoDB)
   ![Firebase](https://img.shields.io/badge/Firebase-333333?logo=firebase)
   <br/>
+  ![Tailwind](https://img.shields.io/badge/Tailwind%20CSS-333333?logo=tailwind-css)
   ![Bootstrap](https://img.shields.io/badge/Bootstrap-333333?logo=bootstrap)
   ![Bulma](https://img.shields.io/badge/Bulma-333333?logo=bulma)
-  ![Tailwind](https://img.shields.io/badge/Tailwind%20CSS-333333?logo=tailwind-css)
   <br/>
   ![Git](https://img.shields.io/badge/Git-333333?logo=git)
 
 ### Contact Me
 <a href="https://www.linkedin.com/in/yeison-rojas-19b04726a/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Yeison%20Rojas-blue?style=flat-square&logo=linkedin"></a>
-<a href="yeisonjr98@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Gmail-yeisonjr98@gmail.com-blue?style=flat-square&logo=gmail"></a>  
+<a href="#"><img alt="Email" src="https://img.shields.io/badge/Gmail-yeisonjr98@gmail.com-blue?style=flat-square&logo=gmail"></a>  
 
 ![GitHub Activity](https://github-readme-stats.vercel.app/api?username=yeisonvirtual&show_icons=true)
