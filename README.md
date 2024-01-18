@@ -15,8 +15,8 @@
   ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
   ![Express](https://img.shields.io/badge/-Express-333333?style=flat&logo=express)
   <br/>
-  ![React](https://img.shields.io/badge/React-333333?style=flat&logo=react)
-  ![Next](https://img.shields.io/badge/React-333333?style=flat&logo=next.js)
+  ![React](https://img.shields.io/badge/React.js-333333?style=flat&logo=react)
+  ![Next](https://img.shields.io/badge/Next.js-333333?style=flat&logo=next.js)
   <br/>
   ![Python](https://img.shields.io/badge/Python-333333?logo=python)
   ![Django](https://img.shields.io/badge/Django-333333?logo=django)
@@ -31,7 +31,7 @@
   <br/>
   ![Bootstrap](https://img.shields.io/badge/Bootstrap-333333?logo=bootstrap)
   ![Bulma](https://img.shields.io/badge/Bulma-333333?logo=bulma)
-  ![Tailwind](https://img.shields.io/badge/Tailwind-333333?logo=tailwind-css)
+  ![Tailwind](https://img.shields.io/badge/Tailwind%20CSS-333333?logo=tailwind-css)
   <br/>
   ![Git](https://img.shields.io/badge/Git-333333?logo=git)
 
