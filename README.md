@@ -3,8 +3,8 @@
 
 ### About Me
 
-- I am 25 years old and I am from Venezuela.
-- I am finishing my Computer Engineering studies at the university.
+- I am from Venezuela.
+- I am a Computer Engineer.
 - I am currently self-taught and specialize in software development, specifically in web development using the latest technology in high demand today.
 - I am very passionate about science 🔬🧪📱 and constant learning 📚.
 - I like challenges and looking for optimal solutions to the problems that arise in life 🧐.
